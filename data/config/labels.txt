@@ -1,0 +1,9 @@
+data/sky.jpg 0 255 255 SKY 0
+data/grass_2.jpg 0 255 0 GRASS 1
+data/rock.jpg 128 128 128 ROCK 1
+data/water_2.jpg 0 0 255 WATER 1
+data/sand.jpg 255 255 0 SAND 1
+data/snow.jpg 255 255 255 SNOW 1
+data/lava.jpg 255 0 0 LAVA 1
+data/metal.jpg 64 64 64 METAL 1
+data/wood.jpg 128 128 0 WOOD 1
